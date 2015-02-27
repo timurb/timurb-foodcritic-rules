@@ -18,7 +18,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-rule 'TIMB001', 'Single-quoted #{} sustitution' do
+rule 'TIMB001', 'Single-quoted #{} substitution' do
   tags %w{style strings timurb}
 
   cookbook do |path|
